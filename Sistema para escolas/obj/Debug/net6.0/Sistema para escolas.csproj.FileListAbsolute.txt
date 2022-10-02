@@ -1,0 +1,15 @@
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\bin\Debug\net6.0\Sistema para escolas.exe
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\bin\Debug\net6.0\Sistema para escolas.deps.json
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\bin\Debug\net6.0\Sistema para escolas.runtimeconfig.json
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\bin\Debug\net6.0\Sistema para escolas.dll
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\bin\Debug\net6.0\Sistema para escolas.pdb
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.csproj.AssemblyReference.cache
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.AssemblyInfoInputs.cache
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.AssemblyInfo.cs
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.csproj.CoreCompileInputs.cache
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.dll
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\refint\Sistema para escolas.dll
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.pdb
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\Sistema para escolas.genruntimeconfig.cache
+C:\workspace\.net Development\Projetos\Sistema para escolas\Sistema para escolas\obj\Debug\net6.0\ref\Sistema para escolas.dll
